@@ -1,0 +1,72 @@
+Deploy - Streamlit Docs
+Documentation
+search
+Search
+rocket_launch
+Get started
+Installation
+add
+Fundamentals
+add
+First steps
+add
+code
+Develop
+Concepts
+add
+API reference
+add
+Tutorials
+add
+Quick reference
+add
+web_asset
+Deploy
+Concepts
+add
+Streamlit Community Cloud
+add
+Snowflake
+Other platforms
+add
+school
+Knowledge base
+FAQ
+Installing dependencies
+Deployment issues
+Home
+/
+Deploy
+Deploy
+Get all the information you need to deploy your app and share it with your users.
+book
+Concepts.
+Understand the basics of app deployment.
+cloud
+Streamlit Community Cloud.
+Deploy your app on our free platform and join a community of developers who share their apps around the world. This is a great place for your non-commerical, personal, and educational apps.
+ac_unit
+Snowflake.
+Deploy your app in Snowflake for a secure, enterprise-grade environment. This is a great place for your business apps.
+bolt
+Other platforms.
+Learn how to deploy your app on a variety of platforms with our convenient collection of tutorials.
+arrow_back
+Previous:
+Develop
+arrow_forward
+Next:
+Concepts
+forum
+Still have questions?
+Our
+forums
+are full of helpful information and Streamlit experts.
+Home
+Contact Us
+Community
+©
+2025
+Snowflake Inc.
+forum
+Ask AI

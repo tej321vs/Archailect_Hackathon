@@ -1,0 +1,73 @@
+Get started with Streamlit - Streamlit Docs
+Documentation
+search
+Search
+rocket_launch
+Get started
+Installation
+add
+Fundamentals
+add
+First steps
+add
+code
+Develop
+Concepts
+add
+API reference
+add
+Tutorials
+add
+Quick reference
+add
+web_asset
+Deploy
+Concepts
+add
+Streamlit Community Cloud
+add
+Snowflake
+Other platforms
+add
+school
+Knowledge base
+FAQ
+Installing dependencies
+Deployment issues
+Home
+/
+Get started
+Get started with Streamlit
+This Get Started guide explains how Streamlit works, how to install Streamlit on your preferred
+operating system, and how to create your first Streamlit app!
+downloading
+Installation
+helps you set up your development environment. Walk through installing Streamlit on Windows, macOS, or Linux. Alternatively, code right in your browser with GitHub Codespaces or Streamlit in Snowflake.
+description
+Fundamentals
+introduces you to Streamlit's data model and development flow. You'll learn what makes Streamlit the most powerful way to build data apps, including the ability to display and style data, draw charts and maps, add interactive widgets, customize app layouts, cache computation, and define themes.
+auto_awesome
+First steps
+walks you through creating apps using core features to fetch and cache data, draw charts, plot information on a map, and use interactive widgets to filter results.
+rocket_launch
+Use GitHub Codespaces
+if you want to skip past local installation and code right in your browser. This guide uses Streamlit Community Cloud to help you automatically configure a codespace.
+30 Days of Streamlit 🎈
+30 Days of Streamlit 🎈 is a free, self-paced 30 day challenge that teaches you how to build and deploy data apps with Streamlit. Complete the daily challenges, share your solutions with us on Twitter and LinkedIn, and stop by the forum with any questions!
+Start the challenge
+arrow_forward
+Next:
+Installation
+forum
+Still have questions?
+Our
+forums
+are full of helpful information and Streamlit experts.
+Home
+Contact Us
+Community
+©
+2025
+Snowflake Inc.
+forum
+Ask AI
